@@ -1,3 +1,36 @@
+March 7, 2024
+  - ADDED:
+      https://threatview.io/Downloads/Experimental-IOC-Tweets.txt      
+      https://threatview.io/Downloads/High-Confidence-CobaltstrikeC2_IP_feed.txt
+      https://threatview.io/Downloads/MALICIOUS-BITCOIN_FEED.txt
+      https://threatview.io/Downloads/URL-High-Confidence-Feed.txt
+      https://threatview.io/Downloads/IP-High-Confidence-Feed.txt
+
+
+      (from @IthildinX blacklist.txt, spybot.txt, whitelist.txt)
+      https://raw.githubusercontent.com/IthildinX/IPSet_ASUS/master/spybot.txt
+      https://raw.githubusercontent.com/IthildinX/IPSet_ASUS/master/whitelist.txt
+      https://raw.githubusercontent.com/IthildinX/IPSet_ASUS/master/blacklist.txt
+
+      (from @abergui https://raw.githubusercontent.com/abergui/Skynet/main_noTOR/filter.list)
+      https://iplists.firehol.org/files/firehol_level4.netset
+      https://iplists.firehol.org/files/firehol_webclient.netset
+      https://iplists.firehol.org/files/iblocklist_ciarmy_malicious.netset
+      https://iplists.firehol.org/files/firehol_abusers_30d.netset
+      https://raw.githubusercontent.com/abergui/abuseipdb-ipset/main/abuseipdb-s100-3d.ipset
+
+      (from @burrella90 list https://raw.githubusercontent.com/burrella90/IPSet_ASUS/master/filter.list)
+      https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/yoyo_adservers.ipset
+      https://raw.githubusercontent.com/hagezi/dns-blocklists/main/ips/tif.txt
+      https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/blocklist_de.ipset
+      https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/vxvault.ipset
+      https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/et_dshield.netset
+      https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/darklist_de.netset
+      https://raw.githubusercontent.com/SecOps-Institute/SpamhausIPLists/master/drop_ipv6.txt
+      https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_anonymous.netset
+      https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/socks_proxy.ipset
+      https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/cidr_report_bogons.netset
+
 March 5, 2023
   - REMOVED: (temporarily)
       https://threatview.io/Downloads/IP-High-Confidence-Feed.txt
