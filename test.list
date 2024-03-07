@@ -30,7 +30,6 @@ https://iplists.firehol.org/files/spamhaus_drop.netset
 https://iplists.firehol.org/files/spamhaus_edrop.netset
 https://iplists.firehol.org/files/urlvir.ipset
 https://sigs.interserver.net/iprbl.txt
-https://threatview.io/Downloads/MALICIOUS-BITCOIN_FEED.txt
 https://threatview.io/Downloads/URL-High-Confidence-Feed.txt
 #https://threatview.io/Downloads/BogusFeed.txt
 https://threatview.io/Downloads/High-Confidence-CobaltstrikeC2_IP_feed.txt
@@ -49,7 +48,10 @@ https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/blocklist_de.i
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/vxvault.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/et_dshield.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/darklist_de.netset
+https://raw.githubusercontent.com/SecOps-Institute/SpamhausIPLists/master/asn_drop.txt
+https://raw.githubusercontent.com/SecOps-Institute/SpamhausIPLists/master/drop.txt
 https://raw.githubusercontent.com/SecOps-Institute/SpamhausIPLists/master/drop_ipv6.txt
+https://raw.githubusercontent.com/SecOps-Institute/SpamhausIPLists/master/edrop.txt
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/socks_proxy.ipset
 https://iplists.firehol.org/files/iblocklist_ciarmy_malicious.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/cidr_report_bogons.netset
