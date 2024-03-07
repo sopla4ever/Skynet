@@ -27,7 +27,6 @@ March 7, 2024
       https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/et_dshield.netset
       https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/darklist_de.netset
       https://raw.githubusercontent.com/SecOps-Institute/SpamhausIPLists/master/drop_ipv6.txt
-      https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_anonymous.netset
       https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/socks_proxy.ipset
       https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/cidr_report_bogons.netset
 
