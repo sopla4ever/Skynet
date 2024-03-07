@@ -19,6 +19,7 @@ https://iplists.firehol.org/files/firehol_level3.netset
 https://iplists.firehol.org/files/firehol_level4.netset
 https://iplists.firehol.org/files/firehol_webclient.netset
 https://iplists.firehol.org/files/greensnow.ipset
+http://cinsscore.com/list/ci-badguys.txt
 https://iplists.firehol.org/files/ciarmy.ipset
 https://iplists.firehol.org/files/iblocklist_ciarmy_malicious.netset
 https://iplists.firehol.org/files/iblocklist_pedophiles.netset
@@ -40,7 +41,6 @@ https://raw.githubusercontent.com/stamparm/ipsum/master/levels/3.txt
 https://www.talosintelligence.com/documents/ip-blacklist
 https://www.invalidurl.com/documents/ip-blacklist
 https://voipbl.org/update
-https://iplists.firehol.org/files/iblocklist_ciarmy_malicious.netset
 https://raw.githubusercontent.com/abergui/abuseipdb-ipset/main/abuseipdb-s100-3d.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/yoyo_adservers.ipset
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/ips/tif.txt
@@ -53,7 +53,6 @@ https://raw.githubusercontent.com/SecOps-Institute/SpamhausIPLists/master/drop.t
 https://raw.githubusercontent.com/SecOps-Institute/SpamhausIPLists/master/drop_ipv6.txt
 https://raw.githubusercontent.com/SecOps-Institute/SpamhausIPLists/master/edrop.txt
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/socks_proxy.ipset
-https://iplists.firehol.org/files/iblocklist_ciarmy_malicious.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/cidr_report_bogons.netset
 
 # FacebookIPLIsts
