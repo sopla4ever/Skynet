@@ -6,6 +6,11 @@ March 7, 2024
       https://threatview.io/Downloads/URL-High-Confidence-Feed.txt
       https://threatview.io/Downloads/IP-High-Confidence-Feed.txt
 
+      (from @SecOps-Institute asn_drop.txt, drop.txt, edrop.txt https://github.com/SecOps-Institute/SpamhausIPLists)
+      https://raw.githubusercontent.com/SecOps-Institute/SpamhausIPLists/master/asn_drop.txt
+      https://raw.githubusercontent.com/SecOps-Institute/SpamhausIPLists/master/drop.txt
+      https://raw.githubusercontent.com/SecOps-Institute/SpamhausIPLists/master/edrop.txt
+
 
       (from @IthildinX blacklist.txt, spybot.txt, whitelist.txt)
       https://raw.githubusercontent.com/IthildinX/IPSet_ASUS/master/spybot.txt
