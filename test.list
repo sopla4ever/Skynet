@@ -55,3 +55,11 @@ https://raw.githubusercontent.com/SecOps-Institute/SpamhausIPLists/master/edrop.
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/socks_proxy.ipset
 https://iplists.firehol.org/files/iblocklist_ciarmy_malicious.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/cidr_report_bogons.netset
+
+# FacebookIPLIsts
+# Daily Checked and Updated if Facebook modifies their list
+# https://github.com/SecOps-Institute/FacebookIPLists
+# https://raw.githubusercontent.com/SecOps-Institute/FacebookIPLists/master/facebook_asn_list.lst
+# https://raw.githubusercontent.com/SecOps-Institute/FacebookIPLists/master/facebook_ip_list.lst
+# https://raw.githubusercontent.com/SecOps-Institute/FacebookIPLists/master/facebook_ipv4_cidr_blocks.lst
+# https://raw.githubusercontent.com/SecOps-Institute/FacebookIPLists/master/facebook_ipv6_list.lst
