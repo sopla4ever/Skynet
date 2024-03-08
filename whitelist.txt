@@ -2,7 +2,6 @@
 
 @@||*.hinet.net^$important
 @@||*.facebook.com
-@@||*.pornhub.com
 @@||history.google.com^$important
 @@||*.brave.com^$important
 
@@ -71,4 +70,3 @@
 
 @@||nianticlabs.com^$important
 @@||nianticstatic.com^$important
-@@||pokemongolive.com^$important
