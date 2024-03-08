@@ -4,6 +4,8 @@ https://iplists.firehol.org/files/bds_atif.ipset
 https://iplists.firehol.org/files/bi_any_2_30d.ipset
 #https://iplists.firehol.org/files/blocklist_net_ua.ipset
 https://iplists.firehol.org/files/coinbl_hosts_browser.ipset
+https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
+https://raw.githubusercontent.com/greatis/Anti-WebMiner/master/hosts
 https://iplists.firehol.org/files/cybercrime.ipset
 https://iplists.firehol.org/files/dm_tor.ipset
 https://iplists.firehol.org/files/dshield.netset
@@ -49,7 +51,6 @@ https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/blocklist_de.i
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/vxvault.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/et_dshield.netset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/darklist_de.netset
-
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/socks_proxy.ipset
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/cidr_report_bogons.netset
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/ips/tif.txt
@@ -59,6 +60,11 @@ https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/native.huawei
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/native.winoffice.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/native.tiktok.extended.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/multi.txt
+https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
+
+# https://cert.pl/ phishing lists
+https://hole.cert.pl/domains/v2/domains_hosts.txt
+https://hole.cert.pl/domains/domains_hosts.txt
 
 # FacebookIPLIsts
 # Daily Checked and Updated if Facebook modifies their list
