@@ -79,8 +79,19 @@ https://iplists.firehol.org/files/php_harvesters_30d.ipset
 # nullsecure.org This is a free threat feed provided for use in any acceptable manner. This feed was aggregated using the Tango Honeypot Intelligence Splunk App by Brian Warehime, a Senior Security Analyst at Defense Point Security.
 https://iplists.firehol.org/files/nullsecure.ipset
 
-# https://cert.pl/ phishing lists
+https://iplists.firehol.org/files/ransomware_cryptowall_ps.ipset
+https://iplists.firehol.org/files/ransomware_feed.ipset
+http://iplists.firehol.org/?ipset=ransomware_locky_c2
+http://iplists.firehol.org/?ipset=ransomware_locky_ps
+http://iplists.firehol.org/?ipset=ransomware_online
+http://iplists.firehol.org/?ipset=ransomware_rw
+http://iplists.firehol.org/?ipset=ransomware_teslacrypt_ps
+http://iplists.firehol.org/?ipset=ransomware_torrentlocker_c2
+http://iplists.firehol.org/?ipset=ransomware_torrentlocker_ps
 
+https://iplists.firehol.org/files/snort_ipfilter.ipset
+
+# https://cert.pl/ phishing lists
 https://hole.cert.pl/domains/v2/domains_hosts.txt
 https://hole.cert.pl/domains/domains_hosts.txt
 
