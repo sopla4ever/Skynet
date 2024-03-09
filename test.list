@@ -62,7 +62,25 @@ https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/native.tiktok
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/multi.txt
 https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
 
+# Crowdsourced IP feed from ThreatCrowd. These feeds are not a substitute for the scale of auto-extracted command and control domains or the quality of some commercially provided feeds. But crowd-sourcing does go some way towards the quick sharing of threat intelligence between the community.
+https://iplists.firehol.org/files/threatcrowd.ipset
+
+# php_spammers_Xd by ProjectHoneypot.org
+https://iplists.firehol.org/files/php_spammers_1d.ipset
+https://iplists.firehol.org/files/php_spammers_7d.ipset
+https://iplists.firehol.org/files/php_spammers_30d.ipset
+https://iplists.firehol.org/files/php_dictionary_1d.ipset
+https://iplists.firehol.org/files/php_dictionary_7d.ipset
+https://iplists.firehol.org/files/php_dictionary_30d.ipset
+https://iplists.firehol.org/files/php_harvesters_1d.ipset
+https://iplists.firehol.org/files/php_harvesters_7d.ipset
+https://iplists.firehol.org/files/php_harvesters_30d.ipset
+
+# nullsecure.org This is a free threat feed provided for use in any acceptable manner. This feed was aggregated using the Tango Honeypot Intelligence Splunk App by Brian Warehime, a Senior Security Analyst at Defense Point Security.
+https://iplists.firehol.org/files/nullsecure.ipset
+
 # https://cert.pl/ phishing lists
+
 https://hole.cert.pl/domains/v2/domains_hosts.txt
 https://hole.cert.pl/domains/domains_hosts.txt
 
