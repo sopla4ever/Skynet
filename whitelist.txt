@@ -45,17 +45,18 @@ ultralow.dns.nextdns.io
 ## also
 ## Port: 143 / TCP	Internet Message Access Protocol (IMAP)
 ## For iPhone: UDP 16384 - 49327 for RTP
-## https://community.cisco.com/t5/ip-telephony-and-phones/wifi-calling-port-requirements/td-p/4644034
-## https://support.apple.com/en-ae/103229
+### https://community.cisco.com/t5/ip-telephony-and-phones/wifi-calling-port-requirements/td-p/4644034
+### https://support.apple.com/en-ae/103229
 ## 
 ## Setup same specific control channel for wi-fi (not auto)
 ## Do not use one of DFS channels 52–64 and 100–140 https://netbeez.net/blog/dfs-channels-wifi/
 ## Do not use WPA3, could be problematic with iPhones
 ## Wi-Fi Calling performs best if the MTU parameter is set to 1500.
-## Make sure IPSec Passthru: enabled / SIP Passthrough: enabled
-## Under wifi professional: Mu-Mimo: disable / Universal Beamforming: disable / WMM APSD: disable
-
-
+## Make sure IPSec Passthrough: Enabled / SIP Passthrough: Enabled  NOT Enabled + NAT Helper/ RTSP Passthrough: Enabled NOT Enabled + NAT Helper
+## Under wifi professional: Mu-Mimo: Disable / Universal Beamforming: Disable / WMM APSD: Disable
+### https://www.snbforums.com/threads/incoming-sip-calls-drop-after-5-mins-could-this-be-udp-timeout-on-rt-ax86u.86081/post-855739
+### https://www.snbforums.com/threads/ax86u-half-audio-on-incoming-voip-sip-calls-nat-mismatch.84855/post-840058
+### https://www.snbforums.com/threads/ax86u-half-audio-on-incoming-voip-sip-calls-nat-mismatch.84855/post-840066
 ## 
 
 # Plus
