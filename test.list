@@ -21,7 +21,7 @@ https://iplists.firehol.org/files/firehol_level3.netset
 https://iplists.firehol.org/files/firehol_level4.netset
 https://iplists.firehol.org/files/firehol_webclient.netset
 https://iplists.firehol.org/files/greensnow.ipset
-http://cinsscore.com/list/ci-badguys.txt
+https://cinsscore.com/list/ci-badguys.txt
 https://iplists.firehol.org/files/ciarmy.ipset
 https://iplists.firehol.org/files/iblocklist_ciarmy_malicious.netset
 https://iplists.firehol.org/files/iblocklist_pedophiles.netset
@@ -81,13 +81,13 @@ https://iplists.firehol.org/files/nullsecure.ipset
 
 https://iplists.firehol.org/files/ransomware_cryptowall_ps.ipset
 https://iplists.firehol.org/files/ransomware_feed.ipset
-http://iplists.firehol.org/?ipset=ransomware_locky_c2
-http://iplists.firehol.org/?ipset=ransomware_locky_ps
-http://iplists.firehol.org/?ipset=ransomware_online
-http://iplists.firehol.org/?ipset=ransomware_rw
-http://iplists.firehol.org/?ipset=ransomware_teslacrypt_ps
-http://iplists.firehol.org/?ipset=ransomware_torrentlocker_c2
-http://iplists.firehol.org/?ipset=ransomware_torrentlocker_ps
+https://iplists.firehol.org/?ipset=ransomware_locky_c2.ipset
+https://iplists.firehol.org/?ipset=ransomware_locky_ps.ipset
+https://iplists.firehol.org/?ipset=ransomware_online.ipset
+https://iplists.firehol.org/?ipset=ransomware_rw.ipset
+https://iplists.firehol.org/?ipset=ransomware_teslacrypt_ps.ipset
+https://iplists.firehol.org/?ipset=ransomware_torrentlocker_c2.ipset
+https://iplists.firehol.org/?ipset=ransomware_torrentlocker_ps.ipset
 
 https://iplists.firehol.org/files/snort_ipfilter.ipset
 
