@@ -6,6 +6,12 @@ dns1.nextdns.io
 dns2.nextdns.io
 ipv4.dns1.nextdns.io
 ipv4.dns2.nextdns.io
+anycast.dns2.nextdns.io
+anycast.dns1.nextdns.io
+anycast.dns.nextdns.io
+ultralow.dns2.nextdns.io
+ultralow.dns1.nextdns.io
+ultralow.dns.nextdns.io
 38.175.123.217
 45.90.28.0
 45.90.30.0
@@ -27,3 +33,68 @@ ipv4.dns2.nextdns.io
 213.248.96.144
 217.98.245.54
 217.146.13.3
+
+
+# VoWifi ISPs in Poland:
+## 
+## Port: 500 / UDP	IPsec - IKE : Authentication [WFC 2.0]
+## Port: 4500 / UDP	IPsec - NAT traversal : Encrypted voice traffic [WFC  2.0]
+## Port: 5060-5061 / TCP/UDP	SIP/TLS : Encrypted SIP [WFC 1.0]
+## Port: 443 / TCP	HTTPS : Used for handset authentication [WFC 1.0]
+## Port: 993 / TCP	IMAP/SSL : Visual Voicemail [WFC 1.0]
+## also
+## Port: 143 / TCP	Internet Message Access Protocol (IMAP)
+## For iPhone: UDP 16384 - 49327 for RTP
+## https://community.cisco.com/t5/ip-telephony-and-phones/wifi-calling-port-requirements/td-p/4644034
+## https://support.apple.com/en-ae/103229
+## 
+## Setup same specific control channel for wi-fi (not auto)
+## Do not use one of DFS channels 52–64 and 100–140 https://netbeez.net/blog/dfs-channels-wifi/
+## Do not use WPA3, could be problematic with iPhones
+## Wi-Fi Calling performs best if the MTU parameter is set to 1500.
+## Make sure IPSec Passthru: enabled / SIP Passthrough: enabled
+## Under wifi professional: Mu-Mimo: disable / Universal Beamforming: disable / WMM APSD: disable
+
+
+## 
+
+# Plus
+31.0.184.80
+37.248.184.80
+epdg.epc.mnc001.mcc260.pub.3gppnetwork.org
+
+
+# T-Mobile PL
+83.220.97.255
+178.182.200.131
+178.182.201.31
+178.182.200.31
+epdg.epc.mnc002.mcc260.pub.3gppnetwork.org
+83.220.98.226
+crl.t-mobile.pl
+
+# Orange PL
+# W przypadku telefonów Apple do aktywacji usługi wymagane są także: porty 8181 i 8281 TCP/UDP oraz adresy IP: 217.116.100.4 i 217.116.100.5.
+217.116.100.4
+217.116.100.5
+217.116.100.14
+217.116.100.20
+217.116.102.15
+217.116.100.22
+217.116.102.17
+217.116.102.18
+217.116.102.16
+217.116.100.19
+217.116.102.19
+217.116.102.20
+217.116.100.15
+217.116.100.18
+217.116.100.23
+epdg.epc.mnc003.mcc260.pub.3gppnetwork.org
+
+# Play
+89.108.200.112
+epdg.epc.mnc006.mcc260.pub.3gppnetwork.org
+89.108.195.110
+epdg.epc.mnc098.mcc260.pub.3gppnetwork.org
+
