@@ -102,3 +102,17 @@ https://hole.cert.pl/domains/domains_hosts.txt
 # https://raw.githubusercontent.com/SecOps-Institute/FacebookIPLists/master/facebook_ip_list.lst
 # https://raw.githubusercontent.com/SecOps-Institute/FacebookIPLists/master/facebook_ipv4_cidr_blocks.lst
 # https://raw.githubusercontent.com/SecOps-Institute/FacebookIPLists/master/facebook_ipv6_list.lst
+# https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt
+
+
+https://v.firebog.net/hosts/static/w3kbl.txt
+https://v.firebog.net/hosts/AdguardDNS.txt
+from https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/getadmiral-domains.txt
+https://v.firebog.net/hosts/Easylist.txt
+https://v.firebog.net/hosts/neohostsbasic.txt
+https://v.firebog.net/hosts/Prigent-Crypto.txt
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/malware
+https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Phishing-Angriffe
+https://v.firebog.net/hosts/Prigent-Malware.txt
+
+
