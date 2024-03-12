@@ -3,7 +3,8 @@ https://iplists.firehol.org/files/alienvault_reputation.ipset
 https://iplists.firehol.org/files/bds_atif.ipset
 https://iplists.firehol.org/files/bi_any_2_30d.ipset
 #https://iplists.firehol.org/files/blocklist_net_ua.ipset
-https://iplists.firehol.org/files/coinbl_hosts_browser.ipset
+# nextdns / cname.vercel-dns.com issue
+#https://iplists.firehol.org/files/coinbl_hosts_browser.ipset
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
 https://raw.githubusercontent.com/greatis/Anti-WebMiner/master/hosts
 https://iplists.firehol.org/files/cybercrime.ipset
