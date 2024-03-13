@@ -117,3 +117,12 @@ https://raw.githubusercontent.com/RPiList/specials/master/Blocklisten/Phishing-A
 https://v.firebog.net/hosts/Prigent-Malware.txt
 
 
+http://osint.bambenekconsulting.com/feeds/c2-ipmasterlist.txt
+https://danger.rulez.sk/projects/bruteforceblocker/blist.php
+https://raw.githubusercontent.com/davidonzo/Threat-Intel/master/lists/latestips.txt
+https://raw.githubusercontent.com/davidonzo/Threat-Intel/master/lists/latestdomains.txt
+
+https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt
+https://rules.emergingthreats.net/blockrules/compromised-ips.txt
+http://list.iblocklist.com/?list=xpbqleszmajjesnzddhv&fileformat=p2p&archiveformat=gz
+https://raw.githubusercontent.com/stamparm/ipsum/master/ipsum.txt
