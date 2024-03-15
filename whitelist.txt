@@ -31,6 +31,7 @@ ultralow.dns.nextdns.io
 76.76.21.9 # my.nextdns.io
 76.76.21.22 # my.nextdns.io
 76.76.21.61 # my.nextdns.io
+76.76.21.93 # my.nextdns.io
 76.76.21.142 # my.nextdns.io
 76.76.21.241 # my.nextdns.io
 83.1.5.158
