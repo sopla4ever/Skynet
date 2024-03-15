@@ -1,6 +1,7 @@
 # whitelist NextDNS EU servers/anycast
 nextdns.io
 my.nextdns.io
+cname.vercel-dns.com # my.nextdns.io
 dns.nextdns.io
 dns1.nextdns.io
 dns2.nextdns.io
@@ -12,9 +13,12 @@ anycast.dns.nextdns.io
 ultralow.dns2.nextdns.io
 ultralow.dns1.nextdns.io
 ultralow.dns.nextdns.io
+
 38.175.123.217
 45.90.28.0
+45.90.28.0/24
 45.90.30.0
+45.90.30.0/24
 62.115.58.22
 62.115.118.41
 62.115.120.70
@@ -24,6 +28,8 @@ ultralow.dns.nextdns.io
 62.115.136.219
 62.115.166.210
 62.115.236.26
+76.76.21.22 # my.nextdns.io
+76.76.21.142 # my.nextdns.io
 83.1.5.158
 80.50.150.169
 156.146.32.41
