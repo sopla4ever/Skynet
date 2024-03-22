@@ -1,4 +1,20 @@
 # whitelist NextDNS EU servers/anycast
+# dns1.nextdns.io → ipv4-zepto-waw-1.edge.nextdns.io
+# ipv4.dns1.nextdns.io → ipv4-zepto-waw-1.edge.nextdns.io
+# ipv4-anycast.dns1.nextdns.io → ipv4-zepto-waw-1.edge.nextdns.io
+# ipv4-dns1.steering.nextdns.io → ipv4-zepto-waw-1.edge.nextdns.io
+# dns2.nextdns.io → ipv4-anexia-waw-1.edge.nextdns.io
+# ipv4.dns2.nextdns.io → ipv4-anexia-waw-1.edge.nextdns.io
+# ipv4-anycast.dns2.nextdns.io → ipv4-anexia-waw-1.edge.nextdns.io
+# ipv4-dns2.steering.nextdns.io → ipv4-anexia-waw-1.edge.nextdns.io
+
+# ipv6.dns1.nextdns.io → ipv6-zepto-waw-1.edge.nextdns.io
+# ipv6-anycast.dns1.nextdns.io → ipv6-zepto-waw-1.edge.nextdns.io
+# ipv6-dns1.steering.nextdns.io → ipv6-zepto-waw-1.edge.nextdns.io
+# ipv6.dns2.nextdns.io → ipv6-anexia-waw-1.edge.nextdns.io
+# ipv6-anycast.dns2.nextdns.io → ipv6-anexia-waw-1.edge.nextdns.io
+# ipv6-dns2.steering.nextdns.io → ipv6-anexia-waw-1.edge.nextdns.io
+
 nextdns.io
 my.nextdns.io
 cname.vercel-dns.com # my.nextdns.io
@@ -13,6 +29,8 @@ anycast.dns.nextdns.io
 ultralow.dns2.nextdns.io
 ultralow.dns1.nextdns.io
 ultralow.dns.nextdns.io
+
+
 
 38.175.123.217
 45.90.28.0
