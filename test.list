@@ -1,4 +1,6 @@
 https://feodotracker.abuse.ch/downloads/ipblocklist.txt
+https://curbengh.github.io/pup-filter/pup-filter-hosts.txt
+https://curbengh.github.io/malware-filter/urlhaus-filter-hosts-online.txt
 https://iplists.firehol.org/files/alienvault_reputation.ipset
 https://iplists.firehol.org/files/bds_atif.ipset
 https://iplists.firehol.org/files/bi_any_2_30d.ipset
