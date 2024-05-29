@@ -101,6 +101,11 @@ ipv6-anexia-waw-1.edge.nextdns.io
 144.202.76.165
 156.146.32.41
 156.146.32.237
+
+# nextdns.io
+172.67.68.89
+104.26.11.186
+
 # ipv4-anexia-prg-1.edge.nextdns.io
 178.255.154.59
 # ipv4-exoscale-vie-1.edge.nextdns.io
@@ -113,6 +118,9 @@ ipv6-anexia-waw-1.edge.nextdns.io
 195.116.35.201
 # ipv4-enahost-bts-1.edge.nextdns.io
 195.146.2.179
+
+# test.nextdns.io
+199.247.16.158
 
 213.248.96.144
 217.98.245.54
