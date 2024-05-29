@@ -44,17 +44,28 @@ ipv6-anycast.dns1.nextdns.io
 ipv6-anycast.dns2.nextdns.io
 
 ipv4-anexia-bts-1.edge.nextdns.io
+ipv6-anexia-bts-1.edge.nextdns.io
 ipv4-anexia-prg-1.edge.nextdns.io
+ipv6-anexia-prg-1.edge.nextdns.io
 ipv4-anexia-vie-1.edge.nextdns.io
+ipv6-anexia-vie-1.edge.nextdns.io
 ipv4-anexia-waw-1.edge.nextdns.io
+ipv6-anexia-waw-1.edge.nextdns.io
+
 ipv4-enahost-bts-1.edge.nextdns.io
+
 ipv4-exoscale-vie-1.edge.nextdns.io
+
 ipv4-zepto-ber-1.edge.nextdns.io
+ipv6-zepto-ber-1.edge.nextdns.io
+ipv4-zepto-fra-1.edge.nextdns.io
+ipv6-zepto-fra-1.edge.nextdns.io
 ipv4-zepto-prg-1.edge.nextdns.io
+ipv6-zepto-prg-1.edge.nextdns.io
 ipv4-zepto-vie-1.edge.nextdns.io
+ipv6-zepto-vie-1.edge.nextdns.io
 ipv4-zepto-waw-1.edge.nextdns.io
 ipv6-zepto-waw-1.edge.nextdns.io
-ipv6-anexia-waw-1.edge.nextdns.io
 
 
 # ipv4-anexia-bts-1.edge.nextdns.io
@@ -115,6 +126,9 @@ ipv6-anexia-waw-1.edge.nextdns.io
 # ipv4.dns1.nextdns.io, ipv4-dns1.steering.nextdns.io
 188.172.251.1
 193.251.252.38
+
+#	ipv4-zepto-fra-1.edge.nextdns.io
+194.45.101.249
 195.116.35.201
 # ipv4-enahost-bts-1.edge.nextdns.io
 195.146.2.179
