@@ -16,27 +16,56 @@
 # ipv6-dns2.steering.nextdns.io → ipv6-anexia-waw-1.edge.nextdns.io
 
 nextdns.io
+api.nextdns.io
 my.nextdns.io
+ping.nextdns.io
+test.nextdns.io
 cname.vercel-dns.com # my.nextdns.io
 dns.nextdns.io
 dns1.nextdns.io
 dns2.nextdns.io
 ipv4.dns1.nextdns.io
 ipv4.dns2.nextdns.io
+ipv6.dns1.nextdns.io
+ipv6.dns2.nextdns.io
 anycast.dns2.nextdns.io
 anycast.dns1.nextdns.io
 anycast.dns.nextdns.io
 ultralow.dns2.nextdns.io
 ultralow.dns1.nextdns.io
 ultralow.dns.nextdns.io
+ipv4-dns1.steering.nextdns.io
+ipv4-dns2.steering.nextdns.io
+ipv6-dns1.steering.nextdns.io
+ipv6-dns2.steering.nextdns.io
+ipv4-anycast.dns1.nextdns.io
+ipv4-anycast.dns2.nextdns.io
+ipv6-anycast.dns1.nextdns.io
+ipv6-anycast.dns2.nextdns.io
+
+ipv4-anexia-bts-1.edge.nextdns.io
+ipv4-anexia-prg-1.edge.nextdns.io
+ipv4-anexia-vie-1.edge.nextdns.io
+ipv4-anexia-waw-1.edge.nextdns.io
+ipv4-enahost-bts-1.edge.nextdns.io
+ipv4-exoscale-vie-1.edge.nextdns.io
+ipv4-zepto-ber-1.edge.nextdns.io
+ipv4-zepto-prg-1.edge.nextdns.io
+ipv4-zepto-vie-1.edge.nextdns.io
+ipv4-zepto-waw-1.edge.nextdns.io
+ipv6-zepto-waw-1.edge.nextdns.io
+ipv6-anexia-waw-1.edge.nextdns.io
 
 
-
-38.175.123.217
-45.90.28.0
+37.252.246.39	# ipv4-anexia-bts-1.edge.nextdns.io
+38.175.112.132 #ipv4-zepto-prg-1.edge.nextdns.io
+38.175.120.133 # ipv4-zepto-vie-1.edge.nextdns.io
+38.175.123.217 # ipv4-zepto-waw-1.edge.nextdns.io
+45.90.28.0 # ipv4-anycast.dns1.nextdns.io
 45.90.28.0/24
-45.90.30.0
+45.90.30.0 # ipv4-anycast.dns2.nextdns.io
 45.90.30.0/24
+45.142.247.197 # ipv4-zepto-ber-1.edge.nextdns.io
 62.115.58.22
 62.115.118.41
 62.115.120.70
@@ -46,7 +75,7 @@ ultralow.dns.nextdns.io
 62.115.136.219
 62.115.166.210
 62.115.236.26
-76.76.21.9 # my.nextdns.io
+76.76.21.9 # my.nextdns.io, ping.nextdns.io
 76.76.21.22 # my.nextdns.io
 76.76.21.61 # my.nextdns.io
 76.76.21.93 # my.nextdns.io
@@ -56,13 +85,26 @@ ultralow.dns.nextdns.io
 76.76.21.241 # my.nextdns.io
 83.1.5.158
 80.50.150.169
+104.26.10.186	# api.nextdns.io
+131.100.0.5	# test.nextdns.io
+144.202.76.165	# ipv4.dns2.nextdns.io, 	ipv4-dns2.steering.nextdns.io	
 156.146.32.41
 156.146.32.237
-195.116.35.201
+178.255.154.59 # ipv4-anexia-prg-1.edge.nextdns.io
+185.150.10.229	# ipv4-exoscale-vie-1.edge.nextdns.io
+185.228.148.83	# ipv4-anexia-vie-1.edge.nextdns.io
+188.172.251.1	# ipv4.dns1.nextdns.io, ipv4-dns1.steering.nextdns.io
 193.251.252.38
+195.116.35.201
+195.146.2.179	# ipv4-enahost-bts-1.edge.nextdns.io
+
+
 213.248.96.144
 217.98.245.54
-217.146.13.3
+217.146.13.3 # ipv4-anexia-waw-1.edge.nextdns.io
+
+108.138.167.82
+otx.alienvault.com
 
 
 # VoWifi ISPs in Poland:
